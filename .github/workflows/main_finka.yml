@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Finka'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_84DBEBED84064746A9FFBE0A7E02DD42 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6289FE8C0A7449849C4D3F0E0265884C }}
           package: .
